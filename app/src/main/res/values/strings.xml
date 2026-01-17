@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+    <string name="add_person">Add Person</string>
+    <string name="enter_person_s_name">Enter person\'s name</string>
+    <string name="select_person">Select a person</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="enter_description">Enter description</string>
+    <string name="add_expense">Add Expense</string>
+</resources>
